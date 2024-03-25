@@ -1,0 +1,1 @@
+Dit document beschrijft het beheer van standaarden van DigiGO volgens het <abbr title="Beheer- en Ontwikkelmodel Standaarden">BOMOS</abbr> model zoals beschreven in [[BOMOS_fundament]] en [[BOMOS_verdieping]].
